@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.cuerpo{
+
+    background-color: rgb(62, 88, 161);
+    color: rgba(255, 255, 255, 0.829);
+  }
+
+
+#titulo{
+  color: rgb(0, 0, 0);
+}
+
+.encabezado{
+  background-color: rgb(19, 8, 83);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+}
+
+.Renault12{
+  margin-left: 7%;
+}
+
+/*Bordeado de título*/
+#titulo{
+
+  border: 5px silver;
+  border-style: inset;
+  border-width: 5px;
+}
+
+.parrafo{
+  margin-left: 28%; 
+}
+
+.vinculo{
+  color: white;
+  text-decoration: none;
+  margin-left: 28%;
+}
+
+.holamundo{
+  text-align: center;
+}
+
+.tabla{
+  font-family: serif;
+}
+
+.footer{
+  text-align: center;
+  background-color:rgb(19, 8, 83);
+}
